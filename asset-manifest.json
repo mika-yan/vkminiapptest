@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vkminiapptest/static/css/main.981f7211.chunk.css",
+    "main.js": "/vkminiapptest/static/js/main.f4de2461.chunk.js",
+    "main.js.map": "/vkminiapptest/static/js/main.f4de2461.chunk.js.map",
+    "runtime-main.js": "/vkminiapptest/static/js/runtime-main.ef66bb5a.js",
+    "runtime-main.js.map": "/vkminiapptest/static/js/runtime-main.ef66bb5a.js.map",
+    "static/css/2.86df01db.chunk.css": "/vkminiapptest/static/css/2.86df01db.chunk.css",
+    "static/js/2.d7d65a76.chunk.js": "/vkminiapptest/static/js/2.d7d65a76.chunk.js",
+    "static/js/2.d7d65a76.chunk.js.map": "/vkminiapptest/static/js/2.d7d65a76.chunk.js.map",
+    "index.html": "/vkminiapptest/index.html",
+    "precache-manifest.831dff56ff9f77a082722e155e77058b.js": "/vkminiapptest/precache-manifest.831dff56ff9f77a082722e155e77058b.js",
+    "service-worker.js": "/vkminiapptest/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vkminiapptest/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vkminiapptest/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.d7d65a76.chunk.js.LICENSE.txt": "/vkminiapptest/static/js/2.d7d65a76.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/vkminiapptest/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef66bb5a.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.d7d65a76.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.f4de2461.chunk.js"
+  ]
+}
